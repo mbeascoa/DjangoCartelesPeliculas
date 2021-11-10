@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1 style="color:blue;">Mis películas favoritas</h1>
+
+<table border="1" style="width:100%">
+        <tr>
+            <th>TITULO</th>
+            <th>CARATULA</th>
+
+        </tr>
+        {% for tit,foto in listado_peliculas%}
+
+            <tr>
+                <td>{{tit}}</td>
+                <td>{{foto}}</td>
+            </tr>
+       {% endfor%}
+</table>
+</body>
+</html>
