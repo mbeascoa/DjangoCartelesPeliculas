@@ -1,0 +1,21 @@
+.center{
+    width: 90%;
+    border: 3px solid #000000;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    padding: 10px;
+    text-align: center;
+}
+h1.fuego{
+   text-shadow: 0 0 20px #fefcc9, 2px -2px 3px #feec85, -4px -4px 5px #ffae34, 5px -10px 6px #ec760c, -5px -12px 8px #cd4606, 0 -15px 20px #973716, 2px -15px 20px #451b0e;
+   color: #666;
+   
+}
+h1.sombra{
+   text-shadow: 3px 3px 2px #696;
+   color: #666;
+} 
+img.tamaño{
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,77 @@
+﻿.txtpeqaco 
+{
+font-family: Verdana;
+font-size: 9px; 
+font-style: normal; 
+line-height: normal; 
+font-weight: normal; 
+color: #000000; 
+text-decoration: none; 
+}
+
+.txtformaco 
+{
+font-family: Arial;
+font-size: 10pt; 
+font-style: normal; 
+line-height: normal; 
+font-weight: normal; 
+color: #000000; 
+text-decoration: none; 
+}
+
+.txtnormalaco {
+font-family: Tahoma;
+font-size: 8pt; 
+font-style: normal; 
+line-height: normal; 
+font-weight: normal; 
+color: #000000; 
+text-decoration: none; 
+}
+
+.txtboldaco {
+font-family: Tahoma; 
+font-size: 8pt; 
+font-style: normal; 
+line-height: normal; 
+font-weight: bold; 
+color: #000000; 
+text-decoration: none; 
+}
+
+.txtnormalmenusaco {
+font-family: Tahoma; 
+font-size: 8pt; 
+font-style: normal; 
+line-height: normal; 
+font-weight: normal; 
+color: #000000; 
+text-decoration: none;
+border-width: 1px;
+border-color: #000000;
+border-style: solid;
+}
+
+.txttituloaco {
+font-family: Verdana; 
+font-size: 14px; 
+font-style: normal; 
+line-height: normal; 
+font-weight: bold; 
+color: #000000; 
+text-decoration: none; 
+}
+
+BODY.fondoazulaco
+{
+    background-color: #6D8CB3; 
+    margin: 0px; 
+    scrollbar-face-color: #FFFFFF; 
+    scrollbar-shadow-color: #CCCCCC; 
+    scrollbar-highlight-color: #CDCDCD; 
+    scrollbar-3dlight-color: #666666; 
+    scrollbar-darkshadow-color: #000000; 
+    scrollbar-track-color: #CECECE; 
+    scrollbar-arrow-color: #6D8CB3; 
+}
